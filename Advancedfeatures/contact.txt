@@ -1,0 +1,2 @@
+hey today we are treating golang file handling. golang file handling has been a very important aspect of golang which makes it easy
+ for developers to navigate through files and directory and craetion of new files.
